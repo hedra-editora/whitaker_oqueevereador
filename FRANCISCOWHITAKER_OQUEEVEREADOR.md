@@ -17,7 +17,7 @@ bairro.
 De fato, o descrédito dos vereadores é ainda maior que o dos demais
 políticos. Duas imagens são comumente associadas às Câmaras
 municipais: a de ineficiência e a de corrupção. Quando os jornais
-noticiam alguma coisa, freqüentemente é para dizer que “não se vota
+noticiam alguma coisa, frequentemente é para dizer que “não se vota
 nada”, que “a pauta está carregada de projetos que esperam decisão”,
 que “se ganha para não fazer coisa nenhuma”, que houve brigas e trocas
 de insultos nas sessões. De tempos em tempos surgem denúncias de mordomias ou levantam-se suspeitas de acertos escusos,
@@ -26,7 +26,7 @@ de ouro.
 
 Quem assiste às sessões das Câmaras fica ainda mais mal impressionado.
 Não entende o que se passa, nem por que se formam rodinhas que não
-escutam os oradores na tribuna, enquanto outros telefonam ou lêem
+escutam os oradores na tribuna, enquanto outros telefonam ou leem
 jornais, os trabalhos sendo suspensos e reabertos por inesperados
 “acordos”. O espetáculo oferecido é muitas vezes deprimente. Mesmo
 quem ache graça vai embora decepcionado.
@@ -59,13 +59,13 @@ verdade, Câmaras e vereadores foram se enredando em desvios que se
 acumularam e se reforçaram ao longo do tempo, aprisionando-os em verdadeiros impasses.
 
 O problema não é somente das Câmaras. Atinge também nossos demais
-Parlamentos: as Assembléias Legislativas Estaduais e o Congresso
+Parlamentos: as Assembleias Legislativas Estaduais e o Congresso
 Nacional. Ocorre igualmente em outros países. Em todo o mundo os
 Parlamentos vivem uma certa crise. Não se encontrou ainda outra forma
 de assegurar um sistema de representação para se aferir a vontade da
 maioria. Mas os “representantes do povo” tendem a cair no descrédito.
 Uma pesquisa nos EUA indicou que 66% dos norte-americanos consideram
-seus congressistas incompetentes e venais. A corrupção é freqüentemente denunciada em Parlamentos de países desenvolvidos. Na América
+seus congressistas incompetentes e venais. A corrupção é frequentemente denunciada em Parlamentos de países desenvolvidos. Na América
 Latina o povo bate palmas quando um golpe fecha o Congresso.
 
 No Brasil, a ditadura instalada em 1964 aprofundou as distorções. Os
@@ -77,7 +77,7 @@ degenerescência. Há mesmo quem diga que, agora, nos seria mais fácil
 reaprender a democracia se os militares os tivessem fechado de vez.
 
 A credibilidade dos Parlamentos é, no entanto, essencial para a
-democracia, como assembléias de representantes dos diferentes
+democracia, como assembleias de representantes dos diferentes
 interesses que existem na sociedade. Por isso é preciso reformá-los.
 Muitos parlamentares estão empenhados nesse esforço. Somente os
 partidários de ditaduras preferem deixar que nossos Parlamentos se
@@ -94,7 +94,7 @@ para sua superação, a partir de experiências positivas já vividas.
 \* \* \*
 
 Nossas observações se referirão a Câmaras municipais de cidades grandes
-ou médias. Talvez seja possível generalizá-las para Assembléias
+ou médias. Talvez seja possível generalizá-las para Assembleias
 Estaduais, Câmara Federal e Senado, mas não se possa fazer o mesmo, em
 todos os detalhes, para Câmaras de pequenas cidades, embora as dinâmicas
 sejam as mesmas.
@@ -118,7 +118,7 @@ funcionarem, as obras serem realizadas.
 
 Mas ele não decide sozinho. Depende de leis, feitas por outro Poder, o
 Legislativo: na esfera federal, a Câmara de Deputados e o Senado, que
-constituem o Congresso Nacional; nos estados, as Assembléias
+constituem o Congresso Nacional; nos estados, as Assembleias
 Legislativas; e as Câmaras de Vereadores, nos municípios.
 
 Esse Poder tem duas funções principais: fazer leis que regulem as
@@ -178,7 +178,7 @@ elege: os vereadores, para as leis municipais; os deputados estaduais,
 para as leis estaduais; e os deputados federais e senadores, para as
 federais.
 
-As Câmaras são as assembléias desses representantes. Enquanto a
+As Câmaras são as assembleias desses representantes. Enquanto a
 Prefeitura fica normalmente sob a responsabilidade de um ou mais
 partidos que tenham ganho a eleição para prefeito, na Câmara estão
 presentes todos os partidos. Ou seja, representantes de todas as
@@ -312,7 +312,7 @@ da Câmara para exercer sua função fiscalizatória.
 
 Antes da Constituição de 1988, em cada estado existia uma única Lei
 Orgânica para todos os seus municípios, elaborada pela respectiva
-Assembléia Legislativa. A nova Constituição estabeleceu que cada
+Assembleia Legislativa. A nova Constituição estabeleceu que cada
 município teria sua própria Lei Orgânica, elaborada pela respectiva
 Câmara municipal, com poder decisório final, isto é, sem que fosse
 submetida à sanção do prefeito.
@@ -402,7 +402,7 @@ a pauta de cada sessão, ou seja, quais projetos – dentre aqueles que
 estão em condições de pauta – serão incluídos na Ordem do Dia. A Mesa se
 encarrega também do funcionamento administrativo da Câmara. O poder de
 que dispõe – e os cargos com que contam seus membros – faz com que sua
-eleição seja sempre uma batalha acirrada entre os que apóiam ou se opõem
+eleição seja sempre uma batalha acirrada entre os que apoiam ou se opõem
 ao prefeito.
 
 ### Bancadas e Lideranças
@@ -411,10 +411,10 @@ Os vereadores de cada partido constituem uma bancada, que atua de
 forma mais ou menos orgânica, reunindo-se ou não para tomar decisões enquanto bancada. Cada uma elege seu
 líder, em geral com revezamento, para representá-la oficialmente nas
 negociações com os demais partidos e com a Mesa. O prefeito também
-pode designar um vereador da bancada que o apóia, para representá-lo e
+pode designar um vereador da bancada que o apoia, para representá-lo e
 cuidar dos seus projetos: é o Líder do Governo. O conjunto de líderes
 constitui o Colégio de Líderes, instância decisória que pode se reunir
-com maior ou menor freqüência, segundo a dinâmica dos enfrentamentos
+com maior ou menor frequência, segundo a dinâmica dos enfrentamentos
 políticos.
 
 ### O trabalho dos vereadores
@@ -435,7 +435,7 @@ A função fiscalizatória também exige tempo, atenção, busca de
 informações, verificações diretas.
 
 Além disso, a Prefeitura está sob a responsabilidade de um ou mais
-partidos. Na Câmara, haverá portanto partidos que apóiam o prefeito –
+partidos. Na Câmara, haverá portanto partidos que apoiam o prefeito –
 as bancadas de “situação” – e partidos que a ele se opõem – as bancadas
 de “oposição”. Essas bancadas constituem maiorias e minorias
 permanentes ou ocasionais. Ora, os enfrentamentos e alianças entre essas
@@ -482,7 +482,7 @@ primeiro grande fator de descrédito das Câmaras: elas as impedem de
 decidir segundo o interesse público – o que nega sua função – e as
 faz resvalar para a corrupção – o que as corrói por dentro.
 
-Para os vereadores que vêem sua atividade como “profissão”, a
+Para os vereadores que veem sua atividade como “profissão”, a
 reeleição é como uma renovação de contrato de trabalho, delicada e
 perigosa. Para os que se aproveitam do poder, perdê-lo significa ver
 cortado o caminho de realização de suas ambições. Para aqueles que
@@ -601,7 +601,7 @@ eleitores, mas também o de conseguir, das empresas ou grupos econômicos intere
 materiais, serviços e facilidades para a campanha.
 
 O vereador que utilize esse processo agirá na verdade como os que
-seqüestram e exigem fortunas para o resgate. De posse do poder de
+sequestram e exigem fortunas para o resgate. De posse do poder de
 decidir, dirá aos interessados que cabe a eles julgar o valor da decisão
 que está em suas mãos e pagar o correspondente. E quando a aprovação
 ficar pendente de poucos votos, os donos desses votos se colocarão numa
@@ -624,7 +624,7 @@ administração interna das Câmaras – que sempre exige serviços e obras de
 conservação ou ampliação compras de equipamentos e de material de
 consumo. Esse é um dos atrativos para se fazer parte da Mesa Diretora,
 que cuida dessa administração. E sempre haverá funcionários que se
-“associem” a vereadores, procurando “despreocupálos” dessas tarefas –
+“associem” a vereadores, procurando “despreocupá-los” dessas tarefas –
 para que possam se dedicar ao trabalho legislativo... Podem então
 surgir cumplicidades de vários tipos, abrindo-se o caminho aos famosos
 “trens da alegria”: projetos de resolução que criem vantagens a esses
@@ -766,13 +766,13 @@ acesso ao governo por vantagens pessoais, como já vimos ao tratar da
 corrupção. Ela é, portanto, especialmente interessante para pessoas
 inescrupulosas – que terão, aliás, grandes condições de serem
 eleitas, exatamente porque sabem enganar. Para realizar seus reais
-objetivos, tais candidatos se utilizarão tranqüilamente da boa-fé de
+objetivos, tais candidatos se utilizarão tranquilamente da boa-fé de
 eleitores – que, no fundo, desprezam –, comprando-os com ínfimos favores
 ou promessas mirabolantes. Em nossa sociedade marcada pela cultura do
 “aproveitador”, não lhes faltarão apoiadores– seus cúmplices nessa
 escroqueria política. Isso parece
 tão natural que os vereadores eleitos, ainda quando tenham uma atuação
-correta, são com freqüência abordados por “candidatos a comparsas”,
+correta, são com frequência abordados por “candidatos a comparsas”,
 que tentam penetrar nesse mundo privilegiado.
 
 Vejamos como se satisfazem alguns tipos de motivação ilegítima.
@@ -793,7 +793,7 @@ eleitorais da legenda ou segundo os interesses do próprio partido em
 contar com os votos que eles eventualmente seriam capazes de “puxar”.
 
 Mas essa “profissão” tem uma peculiaridade: para nela entrar é preciso
-ser eleito. Os caminhos mais usados são conseqüentemente os que moldam a
+ser eleito. Os caminhos mais usados são consequentemente os que moldam a
 imagem mais comum que se tem de vereador: a de despachante de interesses
 de bairro ou pessoais.
 
@@ -844,7 +844,7 @@ processo mais politizado, terá que atender às suas solicitações. E
 as necessidades são tantas que essas bases, ainda que tenham um nível
 mais elevado de consciência política, não resistirão à tentação de
 procurar resolver problemas por intermédio do vereador que elegeram...
-Em conseqüência, grande parte do seu tempo será gasto em gestões junto
+Em consequência, grande parte do seu tempo será gasto em gestões junto
 ao Executivo, para tratar dessas reivindicações.
 
 Ora, isso repercute no trabalho da Câmara: esses vereadores
@@ -901,7 +901,7 @@ muito trabalho os que mais o auxiliaram a ser eleito. A pretexto de que
 o trabalho de vereador exige muitas assessorias, lutará para que os
 gabinetes disponham do máximo possível de cargos, aprovando com
 facilidade os projetos de resolução com esse objetivo. Arrancará
-vantagens em todas as oportunidades que se apresentem. Aceitará mordomias tranqüilamente. Não
+vantagens em todas as oportunidades que se apresentem. Aceitará mordomias tranquilamente. Não
 terá escrúpulos em legislar em causa própria; por exemplo, instituindo
 aposentadorias especiais... Os despachantes ficarão sempre muito
 absorvidos pelas diligências e contatos para resolver seus “casos”, em
@@ -928,7 +928,7 @@ inconscientemente, considerar os governos eficientes menos desejáveis: necessid
 mais autônomos. Seria uma contradição ainda mais perversa do que a
 chantagem: a solução dos problemas não interessaria aos que fossem
 eleitos para encontrá-la. É nessa triste perspectiva que até a fome pode
-ser útil. Por incrível que pareça, há candidatos que nela apóiam sua
+ser útil. Por incrível que pareça, há candidatos que nela apoiam sua
 eleição, mediante, por exemplo, a distribuição de cestas de alimentos.
 
 Esse tipo de político, assim como cuidará de sua própria imagem, com
@@ -953,12 +953,12 @@ abandonará se considerar que ele não tem nenhum poder. Candidatos desse
 tipo, se tratados pelo
 
 Executivo “a pão e água”, terão dificuldade em se eleger ou reeleger.
-Nessa perspectiva, a Constituição de 1988 Ihes atrapalhou um pouco a
+Nessa perspectiva, a Constituição de 1988 lhes atrapalhou um pouco a
 vida, limitando as contratações sem concurso no serviço público.
 
 Se o Executivo não conta com uma maioria que aprove seus projetos e não
 tem maiores preocupações com o aperfeiçoamento das instituições nem
-com padrões éticos, ele se apóia nesse tipo de vereador para obter os
+com padrões éticos, ele se apoia nesse tipo de vereador para obter os
 votos de que necessita. É uma das formas do chamado “fisiologismo”.
 Vereadores mais “experientes” não se desgastam demais com tudo isso.
 Longe das eleições, lhes bastará mandar cartinhas de “encaminhamento”
@@ -973,7 +973,7 @@ memória curta e só se lembra do último benfeitor.
 Há outra forma de fisiologismo, decorrente dessa dependência do
 vereador-despachante em relação à Prefeitura, que determina uma
 distorção ainda mais profunda na relação Executivo-Legislativo: é a
-forma freqüentemente utilizada para se obter maiorias permanentes.
+forma frequentemente utilizada para se obter maiorias permanentes.
 Trata-se da troca de apoios – que levem à formação dessas maiorias – por
 cargos no governo. É o chamado “loteamento” do poder. Os cargos mais
 cobiçados são naturalmente os que permitem maiores distribuições de
@@ -983,7 +983,7 @@ dinheiro, na boa tradição da corrupção.
 
 Dentro de nossos costumes políticos pervertidos, essa é uma operação que
 Prefeitos “pragmáticos” fazem no início dos mandatos. Com isso,
-governam com mais tranqüilidade, com o chamado “rolo compressor”, que
+governam com mais tranquilidade, com o chamado “rolo compressor”, que
 avilta definitivamente o Legislativo: este aprovará, sem maiores discussões, tudo que o Executivo queira. Economiza-se o trabalho muitas
 vezes penoso dos acertos no varejo... E ainda se atalha o risco de ter
 que ceder poder quando surgirem maiores dificuldades de apoio, ocasião
@@ -1068,12 +1068,12 @@ determinado pela soma de votos obtidos por todos os seus candidatos.
 Ora, um bom “puxador de votos” pode ajudar a formar uma grande bancada, ao permitir que mesmo candidatos com votações insignificantes
 sejam eleitos com os votos do “puxador”.
 
-Nem todos os que se apóiam em sua própria fama se candidatam nessa
+Nem todos os que se apoiam em sua própria fama se candidatam nessa
 perspectiva. Para alguns, a candidatura, a eleição e o mandato podem
 até vir a ser um mau negócio, em termos de meio de vida. Outros podem
 inclusive estar entre os mais conscientes e preocupados em exercer seu
 mandato com dignidade. Mas esse sistema distorce a representação. E o
-mais freqüente é esses candidatos “utilizados” estarem completamente
+mais frequente é esses candidatos “utilizados” estarem completamente
 despreparados para suas funções. Eles contribuirão em muito para o descrédito das Câmaras.
 
 ### Motivações e posicionamentos políticos
@@ -1095,7 +1095,7 @@ que se descubra a que interesses servem de fato...
 
 Todos temos o direito de escolher uma profissão, um meio de vida. Mas
 quem se candidata a vereador pleiteia um mandato, uma função política,
-por isso mesmo preen– chida por meio de eleição. Isto é, “representará”
+por isso mesmo preenchida por meio de eleição. Isto é, “representará”
 outras pessoas, para decidir em nome delas. Aquele que visa somente
 viver bem ou se enriquecer desvirtua essa função, transformando-a em
 meio de realização de objetivos pessoais.
@@ -1128,7 +1128,7 @@ morais? A expressão “é dando que se recebe” não é uma regra de
 comportamento assumida pela nossa sociedade? Não são somente os
 “bobos” que agem gratuitamente? O famoso “jeitinho” e a “lei da
 vantagem” não estão na base do comportamento do “aproveitador”, modelo
-quase dominante na cultura nacional? O banditismo do seqüestro não se equivale à chantagem com o
+quase dominante na cultura nacional? O banditismo do sequestro não se equivale à chantagem com o
 poder? A maioria dos eleitores esperaria – ou preferiria – que os
 políticos agissem segundo as referências éticas que todos gostariam de
 respeitar. Mas, enquanto cidadãos comuns, esses eleitores o conseguem?
@@ -1230,7 +1230,7 @@ Uma vez eleito, ele tenderá, portanto, a ser um fiscalizador. Usará
 para isso, por exemplo, as Comissões Parlamentares de Inquérito,
 principal instrumento de fiscalização. Quanto mais hábil e rápido for,
 ao propô-las, assegurará para si a função de presidente ou de relator,
-com a conseqüente promoção de sua liderança. Nessa perspectiva, essas
+com a consequente promoção de sua liderança. Nessa perspectiva, essas
 Comissões podem ser particularmente úteis. Elas dão ao vereador uma
 grande margem de manobra para mobilizar a mídia. Tudo dependerá do tema
 – mais ou menos escandaloso ou mesmo escabroso sobre o qual forem
@@ -1251,11 +1251,11 @@ um vereador de oposição eficiente sabe que as decisões da Câmara podem
 até parar a Prefeitura. Em suma, consolidará sua atuação como
 fiscalizador, em detrimento de sua função de legislador.
 
-Mas os que apóiam o governo se verão frente a dificuldades. A função
+Mas os que apoiam o governo se verão frente a dificuldades. A função
 fiscalizatória, teoricamente, pode e mesmo deve ser exercida tanto
 pelas bancadas de oposição como de situação. Dificilmente, contudo,
 chegaremos a um nível de objetividade e amadurecimento político tal que
-parlamentares possam, publicamente, criticar o governo que apóiam ou
+parlamentares possam, publicamente, criticar o governo que apoiam ou
 mesmo denunciar suas eventuais irregularidades. A oposição rapidamente
 explorará, politicamente, esse presente que lhe seja dado. Os
 vereadores de situação, leais ao governo – embora a questão da lealdade costume reservar surpresas, na fogueira das paixões políticas –,
@@ -1302,10 +1302,10 @@ sociais. Na perspectiva de ganhar poder político e melhor defender
 seus interesses, muitos sindicatos, movimentos populares, associações
 de bairro, organizações da sociedade civil em geral, são levados a
 lançar seus próprios líderes como candidatos a vereador. Para estes,
-por sua vez, isso pode ser importante para Ihes dar mais “cacife”,
+por sua vez, isso pode ser importante para lhes dar mais “cacife”,
 dentro dos seus movimentos e partidos, e participar da definição de sua
-orientação. E, se forem bemsucedidos, seu desempenho poderá
-legitimamente projetálos para vôos mais altos.
+orientação. E, se forem bem-sucedidos, seu desempenho poderá
+legitimamente projetá-los para voos mais altos.
 
 Mas os movimentos sociais normalmente têm que lutar pelas suas
 reivindicações mais junto ao Executivo*,* nos seus vários níveis, do que
@@ -1323,7 +1323,7 @@ candidatou.
 Esse tipo de vereador corre ainda o risco de ser solicitado a fazer
 gestões junto ao Executivo, para resolver problemas dos setores
 sociais ou bairros a que se vincula. Com isso – se ele controlar
-politicamente setores do governo e se os movimentos que apóia o
+politicamente setores do governo e se os movimentos que apoia o
 pressionarem –, ele pode, até mesmo contra seus princípios, deixar-se
 envolver pelo clientelismo e não resistir á tentação de assegurar,
 dessa forma, sua própria reeleição.
@@ -1429,7 +1429,7 @@ própria função pública se desacredita.
 A solução dessas contradições depende da própria evolução política da
 sociedade. Mudanças no funcionamento das Câmaras terão seus efeitos.
 Também nesse aspecto devem ser mudanças que impliquem um maior acompanhamento, pela sociedade, do processo decisório interno às Câmaras,
-especialmente no que se refere ao exercício inconseqüente da função de
+especialmente no que se refere ao exercício inconsequente da função de
 fiscalização. Mas mesmo essas mudanças exigem uma generalização do
 conhecimento da natureza específica da atividade dos Parlamentos.
 
@@ -1499,24 +1499,24 @@ de ruas ou a outorga de títulos a personalidades, em que seus autores
 podem visar somente um rendimento em votos ou mesmo em ajudas
 financeiras para as campanhas. Estes se
 multiplicam ao se aproximarem as eleições. Outros podem resultar de
-idéias “ouvidas”, transformadas, sem maiores estudos, em projetos –
+ideias “ouvidas”, transformadas, sem maiores estudos, em projetos –
 tanto melhores para objetivos de promoção quanto mais mídia provocarem,
 ainda que absurdos... Às vezes podem ser uma tentativa ingênua de
 resposta a pequenos problemas vividos pelos próprios vereadores.
 
 O oportunismo pode levar também os menos escrupulosos a “piratear”
-idéias de outras Câmaras, ou estudos de outros vereadores ou da própria
+ideias de outras Câmaras, ou estudos de outros vereadores ou da própria
 bancada, até mesmo propostas que um dia circularam pelo Executivo... E
 se estas surgem da população, há também os que rapidamente se apropriam
 das mesmas, sem abrir espaço para nenhum tipo mais consistente de
 participação popular.
 
 No caso de projetos que visem à ação do Executivo, é inteiramente
-legítimo que setores sociais que nele não se vêem representados
+legítimo que setores sociais que nele não se veem representados
 proponham, por intermédio dos vereadores que os representam, medidas que
 considerem importantes. Mas o que mais transparece é uma espécie de
 frustração dos vereadores: seus projetos correspondem, mais
-freqüentemente, ao que gostariam de realizar se estivessem no
+frequentemente, ao que gostariam de realizar se estivessem no
 Executivo – o Poder que faz as coisas acontecerem.
 
 ### Quantidade versus qualidade
@@ -1574,7 +1574,7 @@ e para estes se reserva sempre um tratamento “político”...
 Para agravar a situação, os vetos entram sempre, na Ordem do Dia das
 sessões plenárias, à frente das demais matérias. E como geralmente as
 Leis Orgânicas proíbem que outras decisões sejam tomadas se houver vetos
-a examinar, de repente tudo pára.
+a examinar, de repente tudo para.
 
 ### A distorção do Colégio de Líderes
 
@@ -1590,7 +1590,7 @@ atividades que consideram realmente importantes. Só exigirão serem
 ouvidos quando se tratar dos projetos de que são autores e não tenham
 total confiança em seus líderes... Mas essas decisões, o mais das
 vezes baseadas em critérios remotamente objetivos, beiram com
-freqüência – e perigosamente – a irresponsabilidade. Se vereadores
+frequência – e perigosamente – a irresponsabilidade. Se vereadores
 mais cuidadosos pretendem evitar que isso ocorra, correm o risco de
 serem considerados “complicadores”... Nas reuniões do Colégio de
 Líderes, pode até prevalecer um tom de brincadeira, se com o passar do
@@ -1610,7 +1610,7 @@ do projeto.
 Quando se fazem acordos de liderança – tendência difícil de conter –,
 transforma-se o Plenário da Câmara, com toda a sua soberania, numa
 formalidade homologadora: aprovam-se de roldão grandes quantidades de
-projetos, freqüentemente irrelevantes, muitas vezes até ridículos, com
+projetos, frequentemente irrelevantes, muitas vezes até ridículos, com
 divulgação por isso mesmo garantida pelos jornais, o que desacredita
 ainda mais a Câmara. Os vereadores, necessariamente presentes nesses
 momentos finais da operação, cumprem tristemente uma função de
@@ -1648,7 +1648,7 @@ considerado e respeitado, levando-se em conta os conflitos de interesse
 existentes na sociedade. Fica-se na superficialidade e
 irresponsabilidade, que só pode desacreditar o trabalho legislativo. Não
 é à toa que se cita a frase de Bismarck: “se o povo soubesse como são
-feitas as salsichas e as leis, não dormiria tranqüilo...”.
+feitas as salsichas e as leis, não dormiria tranquilo...”.
 
 E tudo ocorre quase “alegremente” porque não existem sanções. Ninguém
 pune legisladores que, ao legislar
@@ -1694,7 +1694,7 @@ administração, e assim por diante. Mas quem conhece efetivamente mais e
 melhor esses assuntos é quem os vive e trabalha, atualizando-se nas
 descobertas, propostas, experiências e reflexões de cada área. Ou seja,
 trata-se de um conhecimento que o legislador – pelas próprias
-exigências de seu trabalho \_ dispõe de poucas possibilidades de ter,
+exigências de seu trabalho dispõe de poucas possibilidades de ter,
 e que se encontra disponível do lado de fora da Câmara, nos meios que o
 produzem e o dominam no nível de desenvolvimento em que se encontre.
 
@@ -1704,7 +1704,7 @@ Há sempre, no entanto, vereadores que se julgam aptos a decidir, por
 suas próprias cabeças, sobre o que e
 melhor ou pior, tecnicamente e não somente politicamente, em cada
 projeto discutido. Atribuindo a si mesmos a sabedoria de “professores de
-Deus”, acabam por utilizarse de sua ascendência sobre o despreparo dos
+Deus”, acabam por utilizar-se de sua ascendência sobre o despreparo dos
 demais para embutir, em argumentos supostamente técnicos, suas próprias
 opções políticas. Tais parlamentares, em geral, situam-se também entre
 os que se consideram investidos do poder de decidir em nome e no lugar
@@ -1760,7 +1760,7 @@ adequadamente por sua função fundamental de legislar.
 
 Numa sociedade despolitizada como a nossa, o vereador consciente de
 suas responsabilidades tem que cumprir a função de educador, pelo seu
-acesso mais freqüente aos meios de comunicação de massa. Por meio deles
+acesso mais frequente aos meios de comunicação de massa. Por meio deles
 pode dar testemunho de seriedade e respeito ao que pertence a todos,
 propor explicações, dar informações verdadeiras sobre os problemas a
 resolver e sobre as saídas que se visualizam, em suma, ajudar a
@@ -1782,7 +1782,7 @@ seus problemas.
 A esses tipos de atuação – que toda e qualquer pessoa com
 responsabilidades sociais e políticas deveria assumir – se agregam as
 tarefas decorrentes da sua condição específica de representante eleito
-para defender, na assembléia de representantes que constitui uma Câmara
+para defender, na assembleia de representantes que constitui uma Câmara
 municipal, os interesses de seus eleitores, na elaboração de leis e na
 fiscalização do Executivo. Tarefas essas que implicam inclusive em
 intermediar a comunicação da população com o poder municipal e exercer o
@@ -1804,7 +1804,7 @@ Instrumentos para a sociedade “invadir” a
 Câmara. Isso levaria a um salto qualitativo também na própria
 concepção de participação popular.
 
-Quando se fala em participação no Legislativo, pensase em pressões sobre
+Quando se fala em participação no Legislativo, pensa-se em pressões sobre
 os vereadores, atos públicos ou presença nas galerias do Plenário para
 aplaudir ou vaiar, ou mesmo só para fiscalizar. São mobilizações que
 podem influenciar decisões, embora às vezes tenham como resultado
@@ -1862,7 +1862,7 @@ nos prazos de tomada de decisão, desmascarar os vereadores que
 desvirtuam as funções parlamentares.
 
 O próprio funcionamento do Plenário precisaria ser modificado. Teriam
-que desaparecer os inconseqüentes e falsos debates e os discursos
+que desaparecer os inconsequentes e falsos debates e os discursos
 anacrônicos, ao estilo dos Parlamentos antigos, com seus oradores
 gongóricos e quase sempre vazios. O direito de obstrução das minorias
 teria que ser assegurado, mas em combinação com sanções que protegessem
@@ -1949,7 +1949,7 @@ militei na Juventude Universitária Católica. Meu primeiro emprego
 foi o de desenhista do Padre Lebret, na grande pesquisa sobre São
 Paulo feita pela SAGMACS. Daí para integrar de forma permanente essa equipe, trabalhar no Grupo de Planejamento do Governo Carvalho Pinto, retomar à SAGMACS como seu Diretor
 Técnico, passar ao governo federal, com João Goulart, como Diretor de
-Planejamento da Superintendência da Reforma Agrária, foi uma seqüência
+Planejamento da Superintendência da Reforma Agrária, foi uma sequência
 que só o golpe militar de 1964 poderia interromper. Passei a
 assessorar a CNBB, no seu 1º Plano de Pastoral de Conjunto, durante
 dois anos, antes de pagar, com Stella e nossos quatro filhos, nossa
